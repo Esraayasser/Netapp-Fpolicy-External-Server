@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<FscreenResp>
+    <ReqId>899</ReqId>
+    <ReqType>SMB_CREAT</ReqType>
+    <NotfResp>2</NotfResp>
+</FscreenResp>

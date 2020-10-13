@@ -1,0 +1,6 @@
+﻿  Notification.cpp
+D:\C3S\NetApp\Fpolicy\Fpolicy_ExternalServer\Fpolicy_ExternalServer\Global_Header.h(13,1): warning C4005: '_WIN32_WINNT': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\sdkddkver.h(217): message : see previous definition of '_WIN32_WINNT'
+D:\C3S\NetApp\Fpolicy\Fpolicy_ExternalServer\Fpolicy_ExternalServer\Notification.cpp(90,6): warning C4101: 'header_len': unreferenced local variable
+D:\C3S\NetApp\Fpolicy\Fpolicy_ExternalServer\Fpolicy_ExternalServer\Notification.cpp(307,20): warning C4018: '<': signed/unsigned mismatch
+  Fpolicy_ExternalServer.vcxproj -> D:\C3S\NetApp\Fpolicy\Fpolicy_ExternalServer\Debug\Fpolicy_ExternalServer.exe
